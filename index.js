@@ -23,7 +23,7 @@ function johnLennonFacts(facts) {
   while () {
     facts[n] + "!!!";
   }
-  return facts;  
+  return facts;
 }
 
 function iLoveTheBeatles(x) {
@@ -32,7 +32,7 @@ function iLoveTheBeatles(x) {
     x = array.push("I love the Beatles!");
     x++;
   } while (x < 15); {
-    
+
   }
   return array;
 }
